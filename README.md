@@ -1,5 +1,6 @@
-Sistema de Relatório de Progresso Diário
-Descrição
+##Sistema de Relatório de Progresso Diário##
+
+#Descrição
 Este sistema tem como finalidade gerar um relatório de progresso diário para mostrar o quão produtivo está sendo o trabalho dos funcionários. O relatório inclui os seguintes itens:
 Total de Horas Trabalhadas
 Média Diária de Horas Trabalhadas
